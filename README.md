@@ -1,6 +1,6 @@
 # my_blog
 
-A new Flutter project.
+UI my Blog Post with a little Backend Crud
 
 ## Getting Started
 

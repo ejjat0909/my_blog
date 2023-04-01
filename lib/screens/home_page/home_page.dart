@@ -185,6 +185,7 @@ class _HomePageState extends State<HomePage> {
 
   Future<BlogListResponseModel>? getBlogs() async {
     BlogBloc blogBloc = BlogBloc();
+    // for auto update
     setState(() {});
     try {
       return await blogBloc.getListProducts();
